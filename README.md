@@ -19,6 +19,6 @@ I'm a college student passionate about combining **low level programming** with 
 📌 **Pinned Repos Coming Soon:**  
 I'll be uploading learning projects, challenge solutions, and eventually original research/code experiments.
 
-📫 Reach me: [LinkedIn](www.linkedin.com/in/vedansh-sethi-950841367)]
+📫 Reach me: [LinkedIn](www.linkedin.com/in/vedansh-sethi-950841367)
 
 

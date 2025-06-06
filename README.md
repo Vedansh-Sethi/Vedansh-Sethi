@@ -1,24 +1,24 @@
-# Hi, I am Vedansh Sethi 👋
+# 👋 Hi, I'm Vedansh Sethi
 
-### Aspiring Neuro-AI developer 🧠 | C++ learner 💻 | Curious about brain and it's working 🧬
+### 🧠 Aspiring Neuro-AI Developer | 💻 C++ Learner | 🧬 Curious About How the Brain Works
 
-I'm a college student passionate about combining **low level programming** with **neuroscience** to build intelligent, brain-insipired systems. currently mastering C++ (core + intermediate) while working on small projects to build a good undertstanding of use case of things I am learning.
+I'm a college student passionate about combining **low-level programming** with **neuroscience** to build intelligent, brain-inspired systems. Currently mastering C++ (core + intermediate), and working on hands-on projects to deeply understand the concepts I'm learning.
 
-### Tech stack 🛠️ :
-- Languages: learning C++, and will move to python next.
-- Tools: Git, VS Code, HackerRank
-- Learning: Memory management
+### 🛠️ Tech Stack:
+- **Languages:** Learning `C++`, moving to `Python` next
+- **Tools:** `Git`, `VS Code`, `HackerRank`
+- **Currently Learning:** Memory management, pointers, object-oriented design
 
-### My goals 🚀:
-- Build my own brain-like AI from scratch.
-- Master C++ → Python → Machine Learning → AI
-- Understand how the brian works and simulate it in machines.
+### 🚀 My Goals:
+- Build my own brain-like AI from scratch
+- Master the path: `C++ → Python → Machine Learning → AI`
+- Understand how the brain works and simulate it in code
 
-----
+---
 
 📌 **Pinned Repos Coming Soon:**  
-I'll be uploading learning projects, challenge solutions, and eventually original research/code experiments.
+I’ll be uploading learning projects, challenge solutions, and eventually original experiments at the intersection of neuro and code.
 
-📫 Reach me: [LinkedIn](www.linkedin.com/in/vedansh-sethi-950841367)
+📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/vedansh-sethi-950841367)
 
 

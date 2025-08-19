@@ -6,8 +6,6 @@ I'm a college student passionate about combining **low-level programming** with 
 
 ### 🛠️ Tech Stack:
 - **Languages:** Learning `C++`, moving to `Python` next
-- **Tools:** `Git`, `VS Code`, `HackerRank`
-- **Currently Learning:** Memory management, pointers, object-oriented design
 
 ### 🚀 My Goals:
 - Build my own brain-like AI from scratch

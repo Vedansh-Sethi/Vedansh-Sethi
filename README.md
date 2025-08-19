@@ -2,7 +2,7 @@
 
 ### 🧠 Aspiring Neuro-AI Developer | 💻 C++ Learner | 🧬 Curious About How the Brain Works
 
-I'm a college student passionate about combining **low-level programming** with **neuroscience** to build intelligent, brain-inspired systems. Currently mastering C++ (core + intermediate), and working on hands-on projects to deeply understand the concepts I'm learning.
+I'm a college student passionate about combining **low-level programming** with **neuroscience** to build intelligent, brain-inspired systems. Currently mastering C++.
 
 ### 🛠️ Tech Stack:
 - **Languages:** Learning `C++`, moving to `Python` next

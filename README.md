@@ -1,6 +1,6 @@
 # Vedansh Sethi
 
-IIT Roorkee CSE('29)
+IIT Roorkee CSE
 
 ## Tech Stack -
 - AI/ML using Pytorch
